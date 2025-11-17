@@ -36,6 +36,7 @@
 - If you want offline or production-grade translation, replace `googletrans` with an official translation API (Google Cloud Translate, Microsoft Translator) and secure the API key on the server.
 
 ## Project structure
+```
 english_to_hindi_translator_with_voice/
 ├─ app.py
 ├─ requirements.txt
